@@ -7,5 +7,6 @@ public class JenkinsPracticeTest {
 	@Test
 	public void jenkinsPracticeTest() {
 		Reporter.log("Hi jenkins!",true);
+		Reporter.log("Hi mayuri!",true);
 	}
 }
